@@ -1,6 +1,6 @@
 # Node Chat Server
 
-A nodejs server contactable via telnet or terminal emulation. 
+A nodejs server contactable via telnet or terminal emulation.
 
 ### How to run the server?
 ```
@@ -12,3 +12,5 @@ node server.js
 ```
 telnet localhost 9000
 ```
+
+
